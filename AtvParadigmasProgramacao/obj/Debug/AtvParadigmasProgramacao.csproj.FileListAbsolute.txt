@@ -1,0 +1,7 @@
+C:\Users\arthu\source\repos\QuestõesParadigmas\AtvParadigmasProgramacao\bin\Debug\AtvParadigmasProgramacao.exe.config
+C:\Users\arthu\source\repos\QuestõesParadigmas\AtvParadigmasProgramacao\bin\Debug\AtvParadigmasProgramacao.exe
+C:\Users\arthu\source\repos\QuestõesParadigmas\AtvParadigmasProgramacao\bin\Debug\AtvParadigmasProgramacao.pdb
+C:\Users\arthu\source\repos\QuestõesParadigmas\AtvParadigmasProgramacao\obj\Debug\AtvParadigmasProgramacao.csproj.AssemblyReference.cache
+C:\Users\arthu\source\repos\QuestõesParadigmas\AtvParadigmasProgramacao\obj\Debug\AtvParadigmasProgramacao.csproj.CoreCompileInputs.cache
+C:\Users\arthu\source\repos\QuestõesParadigmas\AtvParadigmasProgramacao\obj\Debug\AtvParadigmasProgramacao.exe
+C:\Users\arthu\source\repos\QuestõesParadigmas\AtvParadigmasProgramacao\obj\Debug\AtvParadigmasProgramacao.pdb
