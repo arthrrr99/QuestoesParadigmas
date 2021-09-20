@@ -195,7 +195,7 @@ namespace AtvParadigmasProgramacao
                                     loopNota = false;
                                 }
                                 else
-                                    Console.WriteLine("Nota invalida, o 2º e 3º semestre permite apenas 30 pontos!");
+                                    Console.WriteLine("Nota invalida, o 2º e 3º semestre permite apenas 35  pontos!");
                                 Console.WriteLine("---------------------------------------------------------------------------------------------");
                                 break;
                         }
